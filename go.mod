@@ -1,4 +1,4 @@
-module github.com/yeticloud/airboss
+module github.com/neutriino/libatc
 
 go 1.14
 
